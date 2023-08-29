@@ -33,10 +33,12 @@ body {
   font-weight: 400;
   color: #07548a;
   margin: 10px;
+  max-width: 100%;
 }
 
 .box2 img {
   /* width: 1064.8px; */
   max-width: 100%;
+  height: auto;
   margin: 554.5 0 0 187.6;
 }
